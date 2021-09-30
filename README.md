@@ -20,4 +20,4 @@ This is a line from RStudio.
 [LinkedIn Profile](https://www.linkedin.com/in/angelesalazar/)
 
 ### *Angel's Picture*
-#### could not figure this shit out rip
+![Wallpaper](https://github.com/angelsalazar11/myrepo/blob/main/fabrizio-conti-k6GpdsPJSZw-unsplash.jpg)
