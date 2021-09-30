@@ -3,6 +3,7 @@ This is a line from RStudio.
 
 # hw01
 ## **Angels Short Biography**
+##### Hello, below is some information about who I am.
 
 ### Birthplace
 **Santa Maria, CA**
@@ -13,13 +14,10 @@ This is a line from RStudio.
 ### *Angel's Favorite Things Include:*
 1. Vintage Timepieces
 2. Vintage Cars
-3. Listening to:
-  1. Corridos Tumbados
-  2. Rap
-  3. Romantic Era Music
+3. Corridos Tumbados
   
 ### Connect with me on LinkedIn:
 [LinkedIn Profile](https://www.linkedin.com/in/angelesalazar/)
 
-### Angel's favorite picture today
+### *Angel's Picture*
 #### could not figure this shit out rip
