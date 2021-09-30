@@ -14,9 +14,9 @@ This is a line from RStudio.
 1. Vintage Timepieces
 2. Vintage Cars
 3. Listening to:
-  - Corridos Tumbados
-  - Rap
-  - Romantic Era Music
+  a. Corridos Tumbados
+  b. Rap
+  c. Romantic Era Music
   
 ### Connect with me on LinkedIn:
 [LinkedIn Profile](https://www.linkedin.com/in/angelesalazar/)
